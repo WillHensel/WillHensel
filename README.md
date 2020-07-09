@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on getting through University, but I also have a couple side projects.
 - 🌱 I’m currently learning React Native and Golang.
 - 📫 How to reach me: william.r.hensel@gmail.com
-- ⚡ Fun fact: I'm fly planes as a hobby
+- ⚡ Fun fact: I fly planes as a hobby
