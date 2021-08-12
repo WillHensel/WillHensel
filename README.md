@@ -1,5 +1,4 @@
 ### Hi there, my name is Will 👋
 
-- I’m a current undergraduate in my third year studying Computer Science.
-- My love for computers is rivaled only by coffee, music, and aviation. 
+- I’m a current undergraduate in my fourth year studying Computer Science.
 - How to reach me: william.r.hensel@gmail.com
